@@ -6,10 +6,20 @@ dimwishlist:item=192784503&perks=3700496672,4293542123
 dimwishlist:item=192784503&perks=3828510309,4293542123
 
 
+// Undercurrent (Adept) (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=672957262&perks=1556840489,2173046394
+dimwishlist:item=672957262&perks=1556840489,11612903
+dimwishlist:item=672957262&perks=3523296417,2173046394
+dimwishlist:item=672957262&perks=3523296417,11612903
+
+
 // Undercurrent (Adept) (pve)
 //notes: tags:pve
-dimwishlist:item=672957262&perks=1556840489,2173046394
-dimwishlist:item=672957262&perks=3523296417,2173046394
+dimwishlist:item=672957262&perks=1583705720,2173046394
+dimwishlist:item=672957262&perks=1583705720,11612903
+dimwishlist:item=672957262&perks=2010801679,2173046394
+dimwishlist:item=672957262&perks=2010801679,11612903
 
 
 // Cold Comfort (god-pve)
@@ -75,6 +85,11 @@ dimwishlist:item=1719687748&perks=3796465595,2428997981,3194351027
 dimwishlist:item=2026755633&perks=1820235745,95528736
 dimwishlist:item=2026755633&perks=2779035018,95528736
 dimwishlist:item=2026755633&perks=3700496672,95528736
+
+
+// Lethal Abundance (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2189073092&perks=923806249,3324494224
 
 
 // Lethal Abundance (pvp)
@@ -177,6 +192,11 @@ dimwishlist:item=2738601016&perks=3809316345,3301904089,968510818,3078487919
 // Naeem's Lance (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=2806569825&perks=1523832109,555281244
+
+
+// Naeem's Lance (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2806569825&perks=831391274,3523296417
 
 
 // Indebted Kindness (god-pve)
