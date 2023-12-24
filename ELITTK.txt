@@ -6,6 +6,11 @@ dimwishlist:item=192784503&perks=3700496672,4293542123
 dimwishlist:item=192784503&perks=3828510309,4293542123
 
 
+// Warden's Law (Adept) (god-pve)
+//notes: 幸运裤专用 tags:god-pve
+dimwishlist:item=267089201&perks=1354429876,1546637391
+
+
 // Undercurrent (Adept) (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=672957262&perks=1556840489,2173046394
@@ -36,7 +41,7 @@ dimwishlist:item=839786290&perks=3796465595,968510818,1439600632
 
 
 // Marsilion-C (god-pve)
-//notes: tags:god-pve
+//notes: 因为只有这一把火榴弹 tags:god-pve
 dimwishlist:item=867154247&perks=3798852852,3301904089,968510818,2888557110
 dimwishlist:item=867154247&perks=3798852852,3301904089,968510818,3194351027
 dimwishlist:item=867154247&perks=3798852852,3301904089,968510818,3751912585
@@ -80,6 +85,11 @@ dimwishlist:item=1719687748&perks=3796465595,2428997981,3708227201
 dimwishlist:item=1719687748&perks=3796465595,2428997981,3194351027
 
 
+// Warden's Law ()
+//notes: 幸运库专用
+dimwishlist:item=1821529912&perks=1354429876,1546637391
+
+
 // Breakneck (pve)
 //notes: tags:pve
 dimwishlist:item=2026755633&perks=1820235745,95528736
@@ -88,8 +98,9 @@ dimwishlist:item=2026755633&perks=3700496672,95528736
 
 
 // Lethal Abundance (god-pve)
-//notes: tags:god-pve
+//notes: 击败切割目标产生缠结，互动缠结获得增伤，基本常驻。线虫可以另一种玩法。 tags:god-pve
 dimwishlist:item=2189073092&perks=923806249,3324494224
+dimwishlist:item=2189073092&perks=923806249,831391274
 
 
 // Lethal Abundance (pvp)
@@ -209,6 +220,14 @@ dimwishlist:item=3381450498&perks=2859149211,2173046394
 //notes: tags:pve
 dimwishlist:item=3583275737&perks=776531651,95528736
 dimwishlist:item=3583275737&perks=1820235745,95528736
+
+
+// Stormchaser (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=3652506829&perks=1687452232,2284787283,1771339417
+dimwishlist:item=3652506829&perks=1687452232,3300816228,1771339417
+dimwishlist:item=3652506829&perks=689005463,2284787283,1771339417
+dimwishlist:item=3652506829&perks=689005463,3300816228,1771339417
 
 
 // Dragoncult Sickle (pve)
