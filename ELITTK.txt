@@ -27,6 +27,12 @@ dimwishlist:item=672957262&perks=2010801679,2173046394
 dimwishlist:item=672957262&perks=2010801679,11612903
 
 
+// Vengeful Whisper (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=839344841&perks=923806249,831391274
+dimwishlist:item=839344841&perks=3828510309,831391274
+
+
 // Cold Comfort (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=839786290&perks=3798852852,3796465595,968510818,3078487919
